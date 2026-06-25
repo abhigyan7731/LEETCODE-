@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/abhigyan7731/LEETCODE-/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/abhigyan7731/LEETCODE-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
 ## Segment Tree
 |  |
 | ------- |
