@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/abhigyan7731/LEETCODE-/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -104,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
