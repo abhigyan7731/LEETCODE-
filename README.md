@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
+| [1288-remove-covered-intervals](https://github.com/abhigyan7731/LEETCODE-/tree/master/1288-remove-covered-intervals) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/abhigyan7731/LEETCODE-/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
+| [1288-remove-covered-intervals](https://github.com/abhigyan7731/LEETCODE-/tree/master/1288-remove-covered-intervals) |
 ## Segment Tree
 |  |
 | ------- |
