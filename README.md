@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
+| [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/abhigyan7731/LEETCODE-/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
+| [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/abhigyan7731/LEETCODE-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -217,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
