@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/abhigyan7731/LEETCODE-/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/abhigyan7731/LEETCODE-/tree/master/1288-remove-covered-intervals) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
