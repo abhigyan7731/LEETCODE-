@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/abhigyan7731/LEETCODE-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/abhigyan7731/LEETCODE-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/abhigyan7731/LEETCODE-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
