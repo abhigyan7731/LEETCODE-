@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
