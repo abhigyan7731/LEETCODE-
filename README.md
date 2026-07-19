@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abhigyan7731/LEETCODE-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/abhigyan7731/LEETCODE-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/abhigyan7731/LEETCODE-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
