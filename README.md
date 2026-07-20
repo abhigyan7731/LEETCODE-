@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
+| [2017-grid-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/2017-grid-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2017-grid-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/2017-grid-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhigyan7731/LEETCODE-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/1260-shift-2d-grid) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [2017-grid-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/2017-grid-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
