@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhigyan7731/LEETCODE-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3537-fill-a-special-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3537-fill-a-special-grid) |
 | [3620-network-recovery-pathways](https://github.com/abhigyan7731/LEETCODE-/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
+| [3537-fill-a-special-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3537-fill-a-special-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2017-grid-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/2017-grid-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3537-fill-a-special-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3537-fill-a-special-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
