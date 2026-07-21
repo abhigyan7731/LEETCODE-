@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/abhigyan7731/LEETCODE-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/abhigyan7731/LEETCODE-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/abhigyan7731/LEETCODE-/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/abhigyan7731/LEETCODE-/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/abhigyan7731/LEETCODE-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
