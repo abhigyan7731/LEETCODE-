@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/abhigyan7731/LEETCODE-/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhigyan7731/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abhigyan7731/LEETCODE-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhigyan7731/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhigyan7731/LEETCODE-/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhigyan7731/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/2078-two-furthest-houses-with-different-colors) |
