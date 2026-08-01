@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/abhigyan7731/LEETCODE-/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhigyan7731/LEETCODE-/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhigyan7731/LEETCODE-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/abhigyan7731/LEETCODE-/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhigyan7731/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhigyan7731/LEETCODE-/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/abhigyan7731/LEETCODE-/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhigyan7731/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
