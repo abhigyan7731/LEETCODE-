@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/abhigyan7731/LEETCODE-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhigyan7731/LEETCODE-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/abhigyan7731/LEETCODE-/tree/master/3620-network-recovery-pathways) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhigyan7731/LEETCODE-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhigyan7731/LEETCODE-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/abhigyan7731/LEETCODE-/tree/master/3745-maximize-expression-of-three-elements) |
