@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhigyan7731/LEETCODE-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [2017-grid-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/2017-grid-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhigyan7731/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhigyan7731/LEETCODE-/tree/master/2965-find-missing-and-repeated-values) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhigyan7731/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhigyan7731/LEETCODE-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1406-stone-game-iii) |
 ## Knapsack Problem
 |  |
@@ -375,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/abhigyan7731/LEETCODE-/tree/master/0279-perfect-squares) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
