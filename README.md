@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhigyan7731/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhigyan7731/LEETCODE-/tree/master/0131-palindrome-partitioning) |
+| [0233-number-of-digit-one](https://github.com/abhigyan7731/LEETCODE-/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/abhigyan7731/LEETCODE-/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhigyan7731/LEETCODE-/tree/master/0322-coin-change) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/abhigyan7731/LEETCODE-/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/abhigyan7731/LEETCODE-/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/abhigyan7731/LEETCODE-/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0509-fibonacci-number) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/abhigyan7731/LEETCODE-/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0509-fibonacci-number) |
 ## Memoization
