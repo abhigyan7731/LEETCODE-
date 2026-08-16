@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhigyan7731/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/abhigyan7731/LEETCODE-/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/1260-shift-2d-grid) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/abhigyan7731/LEETCODE-/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
