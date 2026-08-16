@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/abhigyan7731/LEETCODE-/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/abhigyan7731/LEETCODE-/tree/master/0279-perfect-squares) |
