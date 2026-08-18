@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
