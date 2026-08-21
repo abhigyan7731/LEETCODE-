@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/abhigyan7731/LEETCODE-/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhigyan7731/LEETCODE-/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhigyan7731/LEETCODE-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhigyan7731/LEETCODE-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhigyan7731/LEETCODE-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhigyan7731/LEETCODE-/tree/master/2965-find-missing-and-repeated-values) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhigyan7731/LEETCODE-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhigyan7731/LEETCODE-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/abhigyan7731/LEETCODE-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abhigyan7731/LEETCODE-/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhigyan7731/LEETCODE-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhigyan7731/LEETCODE-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/abhigyan7731/LEETCODE-/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhigyan7731/LEETCODE-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/abhigyan7731/LEETCODE-/tree/master/0476-number-complement) |
 | [1386-cinema-seat-allocation](https://github.com/abhigyan7731/LEETCODE-/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhigyan7731/LEETCODE-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhigyan7731/LEETCODE-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhigyan7731/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
