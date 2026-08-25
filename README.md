@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/abhigyan7731/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/abhigyan7731/LEETCODE-/tree/master/0409-longest-palindrome) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhigyan7731/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/abhigyan7731/LEETCODE-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/abhigyan7731/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0088-merge-sorted-array) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhigyan7731/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
