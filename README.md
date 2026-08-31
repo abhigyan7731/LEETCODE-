@@ -504,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2227-encrypt-and-decrypt-strings](https://github.com/abhigyan7731/LEETCODE-/tree/master/2227-encrypt-and-decrypt-strings) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhigyan7731/LEETCODE-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
