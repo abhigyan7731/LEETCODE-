@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/abhigyan7731/LEETCODE-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhigyan7731/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhigyan7731/LEETCODE-/tree/master/0131-palindrome-partitioning) |
 | [0233-number-of-digit-one](https://github.com/abhigyan7731/LEETCODE-/tree/master/0233-number-of-digit-one) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/abhigyan7731/LEETCODE-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhigyan7731/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
