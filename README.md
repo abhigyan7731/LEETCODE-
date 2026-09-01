@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/abhigyan7731/LEETCODE-/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1872-stone-game-viii) |
 | [2017-grid-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/2017-grid-game) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhigyan7731/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/abhigyan7731/LEETCODE-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/abhigyan7731/LEETCODE-/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/1260-shift-2d-grid) |
