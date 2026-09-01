@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhigyan7731/LEETCODE-/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/abhigyan7731/LEETCODE-/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/abhigyan7731/LEETCODE-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abhigyan7731/LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
