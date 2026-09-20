@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhigyan7731/LEETCODE-/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhigyan7731/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhigyan7731/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhigyan7731/LEETCODE-/tree/master/0232-implement-queue-using-stacks) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/abhigyan7731/LEETCODE-/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Trie
 |  |
@@ -567,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhigyan7731/LEETCODE-/tree/master/0836-rectangle-overlap) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhigyan7731/LEETCODE-/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
