@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhigyan7731/LEETCODE-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhigyan7731/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/abhigyan7731/LEETCODE-/tree/master/0204-count-primes) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0137-single-number-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/abhigyan7731/LEETCODE-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0476-number-complement](https://github.com/abhigyan7731/LEETCODE-/tree/master/0476-number-complement) |
