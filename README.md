@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhigyan7731/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/abhigyan7731/LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhigyan7731/LEETCODE-/tree/master/0118-pascals-triangle) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhigyan7731/LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhigyan7731/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/abhigyan7731/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/abhigyan7731/LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/1260-shift-2d-grid) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2017-grid-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/2017-grid-game) |
