@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhigyan7731/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/abhigyan7731/LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/abhigyan7731/LEETCODE-/tree/master/0131-palindrome-partitioning) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/abhigyan7731/LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/abhigyan7731/LEETCODE-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhigyan7731/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/abhigyan7731/LEETCODE-/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhigyan7731/LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhigyan7731/LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
