@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhigyan7731/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhigyan7731/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/abhigyan7731/LEETCODE-/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/abhigyan7731/LEETCODE-/tree/master/0763-partition-labels) |
 | [1096-brace-expansion-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1096-brace-expansion-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/abhigyan7731/LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/abhigyan7731/LEETCODE-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/abhigyan7731/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/abhigyan7731/LEETCODE-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/abhigyan7731/LEETCODE-/tree/master/0409-longest-palindrome) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhigyan7731/LEETCODE-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhigyan7731/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/abhigyan7731/LEETCODE-/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/abhigyan7731/LEETCODE-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhigyan7731/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
