@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abhigyan7731/LEETCODE-/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/abhigyan7731/LEETCODE-/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhigyan7731/LEETCODE-/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhigyan7731/LEETCODE-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhigyan7731/LEETCODE-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhigyan7731/LEETCODE-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/abhigyan7731/LEETCODE-/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhigyan7731/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2017-grid-game](https://github.com/abhigyan7731/LEETCODE-/tree/master/2017-grid-game) |
 | [2029-stone-game-ix](https://github.com/abhigyan7731/LEETCODE-/tree/master/2029-stone-game-ix) |
