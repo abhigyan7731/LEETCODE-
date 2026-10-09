@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhigyan7731/LEETCODE-/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/abhigyan7731/LEETCODE-/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/abhigyan7731/LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/abhigyan7731/LEETCODE-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhigyan7731/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/abhigyan7731/LEETCODE-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhigyan7731/LEETCODE-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/abhigyan7731/LEETCODE-/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/abhigyan7731/LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhigyan7731/LEETCODE-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhigyan7731/LEETCODE-/tree/master/0169-majority-element) |
 | [3537-fill-a-special-grid](https://github.com/abhigyan7731/LEETCODE-/tree/master/3537-fill-a-special-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
