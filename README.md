@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhigyan7731/LEETCODE-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/abhigyan7731/LEETCODE-/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2451-odd-string-difference](https://github.com/abhigyan7731/LEETCODE-/tree/master/2451-odd-string-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhigyan7731/LEETCODE-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhigyan7731/LEETCODE-/tree/master/2965-find-missing-and-repeated-values) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhigyan7731/LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhigyan7731/LEETCODE-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2451-odd-string-difference](https://github.com/abhigyan7731/LEETCODE-/tree/master/2451-odd-string-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhigyan7731/LEETCODE-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhigyan7731/LEETCODE-/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhigyan7731/LEETCODE-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhigyan7731/LEETCODE-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhigyan7731/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -660,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhigyan7731/LEETCODE-/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhigyan7731/LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
